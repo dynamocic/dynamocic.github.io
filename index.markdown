@@ -13,22 +13,21 @@ WORKSHOP OPENING HOURS
 
 {% include hours.md %}
 
-## Board Of Directors Recruitment Info 
-
-We are currently in the process of expanding our Board of Directors. Deadline for applications is 2nd of February 2025.
-
-For more info check out our [Recruitment Pack](/media/DynamoRecruitmentPack.pdf)
-
-Apply by filling in our [Application form](https://docs.google.com/forms/d/1c8b_FcFOuFhL6YBjSVyCKEEybb4rlLLAWsKuTzzayKk/preview?edit_requested=true/)
-
 ## Sales and Servicing
 
-We run a fully operational workshop space in the west-end of Glasgow at Unit 21 Hayburn Lane, Glasgow G11 5AT.
-You can book a repair or a service by emailing us at [hello@dynamocic.org](mailto:hello@dynamocic.org) or calling the workshop on 077 0796 2939
+We run a fully operational workshop space in the West End of Glasgow at Unit 21 Hayburn Lane, Glasgow G11 5AT.
+You can book a repair or a service by emailing us at [hello@dynamocic.org](mailto:hello@dynamocic.org) or calling the workshop on [07707 962939](tel:+447707962939){:.phone}.
 
 ## Bikepacking and Saddle Library 
 
-We run a bikepacking and camping equipment library which is open to memberships (£50/year). The archive and software is in development but feel free to drop us a message if you're interested in borrowing anything! We have a selection of tents, panniers, matts, saddle bags and much more. We also have a selection of saddles to try if you're struggling with your current one!
+We run a bikepacking and camping equipment library which is open to memberships:
+- One-off: £5 - £10 for borrowing up to 5 items, for up to 10 days
+- Annual: £50 for for borrowing up to 5 items, for up to 10 days, throughout the year
+- Lifetime: £300 for all the perks of an annual membership while making a lasting contribution to support and grow our community
+
+We're developing our system to keep track of available items and manage borrowing, but feel free to drop us a message or come along to the workshop if you want to know what we have. There is a selection of tents, panniers, mats, sleeping bags, saddle bags and much more. We also have a selection of saddles to try if you're struggling with your current one!
+
+To sign up for library membership, please come during our usual workshop opening hours and bring some ID and proof of address with you.
 
 We have [a short survey](/survey) to help us find out what items you're interested to see in our equipment library. Please fill it in so we can expand our inventory with the most useful items!
 
