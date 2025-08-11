@@ -30,6 +30,6 @@ We offer two types of Lending Library Memberships
 
 To sign up, come into Dynamo with two forms of ID (including proof of address) during the workshop's opening hours. 
 
-To find out more about lending library, [please ask](/#contact-us). 
+To find out more about the lending library, [please ask](/#contact-us). 
 
 ### Thank You
