@@ -13,7 +13,7 @@ From panniers, saddles, tents, sleeping bags and more - borrow what you need whe
 
 The library will be open during the workshop's opening hours. 
 
-We offer two types of Lending Library Memberships
+We offer two types of Lending Library Memberships: 
 
 **Annual - £50** 
 
