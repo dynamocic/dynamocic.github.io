@@ -20,13 +20,14 @@ We offer two types of Lending Library Memberships
 - Borrow from our full range of **Camping & Bikepacking Gear** - including saddles! 
 - Borrow up to 5 items at a time, for **up to 10 days**. 
 - Enjoy **10% off all stock** in our shop. 
-- One-off borrowing options available from **£5-£10** per item.
 
 **Lifetime - £300** 
 
 - **All the perks** of annual membership.
 - **One-time payment** for lifetime access to our full range of **Camping & Bikepacking Gear**
-- Be part of a lasting contribution to support and grow our community! 
+- Be part of a lasting contribution to support and grow our community!
+
+One-off borrowing options available from **£5-£10** per item.
 
 To sign up, come into Dynamo with two forms of ID (including proof of address) during the workshop's opening hours. 
 
