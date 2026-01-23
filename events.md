@@ -18,8 +18,8 @@ Bike Kitchen is about sharing skills, building confidence, and keeping bikes rol
 ### Book a slot
 
 To see more information and book a 2-hour slot, please see the links below: 
-- https://events.humanitix.com/diy-bike-kitchen-queer-only-sessions
-- https://events.humanitix.com/diy-bike-kitchen-open-to-all-sessions
+- [https://events.humanitix.com/diy-bike-kitchen-queer-only-sessions](https://events.humanitix.com/diy-bike-kitchen-queer-only-sessions)
+- [https://events.humanitix.com/diy-bike-kitchen-open-to-all-sessions](https://events.humanitix.com/diy-bike-kitchen-open-to-all-sessions)
 
 ## MAINTENANCE CLASSES
 
