@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Learn 
+title: Events 
 ---
 
 ## Learn at our workshop
