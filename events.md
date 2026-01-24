@@ -4,23 +4,29 @@ layout: default
 title: Events 
 ---
 
-## BIKE KITCHEN
+## DIY BIKE REPAIR SESSIONS 
 
-Starting from 7th February 2026, we will be offering two bike kitchens per month, with two-hour slots running between 10am - 5pm. 
+
+Starting 7th February 2026, we are launching our DIY Bike Repair sessions. These will run twice a month with two-hour bookable slots available between 10am-5pm. 
 - **1st Saturday** of the month: **queer-only sessions**
 - **3rd Saturday** of the month: **open-to-all sessions**
 
 ### What to expect
 
-Our Bike Kitchen sessions are friendly, hands-on workshops where you can work on your own bike with support from experienced mechanics. We provide tools, guidance, and a supportive environment, and you’ll work on your bike at your own pace with help when you need it. 
-Bike Kitchen is about sharing skills, building confidence, and keeping bikes rolling.
+Our  sessions are friendly, hands-on workshops where you can work on your own bike with support from experienced mechanics. We provide tools, guidance, and a supportive environment, and you’ll work on your bike at your own pace with help when you need it. 
+DIY Bike Repair sessions are about sharing skills, building confidence, and keeping bikes rolling!
 
-### Book a slot
+### Booking a slot
 
-To see more information and book a 2-hour slot, please see the links below: 
-- [https://events.humanitix.com/diy-bike-kitchen-queer-only-sessions](https://events.humanitix.com/diy-bike-kitchen-queer-only-sessions)
-- [https://events.humanitix.com/diy-bike-kitchen-open-to-all-sessions](https://events.humanitix.com/diy-bike-kitchen-open-to-all-sessions)
+For full details and to book a 2-hour slot, use the links below:
+
+- [Queer-only sessions](https://events.humanitix.com/diy-bike-kitchen-queer-only-sessions)
+- [Open-to-all sessions](https://events.humanitix.com/diy-bike-kitchen-open-to-all-sessions)
+
+
 
 ## MAINTENANCE CLASSES
 
-We offer maintenance classes for organisations. If you are interested [please get in touch](/#contact-us)! 
+We are working on a program of maintenance classes to begin from March 2026, watch this space for active links! 
+
+We also offer maintenance classes for organisations. If you are interested [please get in touch](/#contact-us)! 
