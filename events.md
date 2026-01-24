@@ -11,8 +11,8 @@ Starting **7th February 2026**, we are launching our **DIY Bike Repair sessions*
 
 For full details and to book a 2-hour slot, use the links below:
 
-- [**1st Saturday of the month: queer-only sessions**](https://events.humanitix.com/diy-bike-kitchen-queer-only-sessions)
-- [**3rd Saturday of the month: open-to-all sessions**](https://events.humanitix.com/diy-bike-kitchen-open-to-all-sessions)
+- [**1st Saturday of the month: queer-only sessions**](https://events.humanitix.com/diy-bike-repair-queer-only-sessions)
+- [**3rd Saturday of the month: open-to-all sessions**](https://events.humanitix.com/diy-bike-repair-open-to-all-sessions)
 
 ### What to expect
 
