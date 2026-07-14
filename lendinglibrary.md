@@ -11,7 +11,9 @@ We're excited to announce that our cycling lending library is now open!
 
 From panniers, saddles, tents, sleeping bags and more - borrow what you need when you need it. 
 
-The library will be open during the workshop's opening hours. 
+You can browse our inventory over at [https://dynamoglasgow.myturn.com/library/inventory/browse](https://dynamoglasgow.myturn.com/library/inventory/browse).
+
+The library is open for collection from 10:00 – 12:00 on Tuesdays and 17:00 – 19:00 on Thursdays. 
 
 We offer two types of Lending Library Memberships: 
 
@@ -30,6 +32,8 @@ We offer two types of Lending Library Memberships:
 One-off borrowing options available from **£5-£10** per item.
 
 To sign up, come into Dynamo with two forms of ID (including proof of address) during the workshop's opening hours. 
+
+We now use MyTurn to handle all memberships and loans - you can [create an account](https://dynamoglasgow.myturn.com/library/createUser/index) on the system to speed things up in the workshop.
 
 To find out more about the lending library, [please ask](/#contact-us). 
 
