@@ -23,6 +23,6 @@ DIY Bike Repair sessions are about sharing skills, building confidence, and keep
 
 ## MAINTENANCE CLASSES
 
-We are working on a program of maintenance classes to begin from March 2026, watch this space for active links! 
+We are working on a program of maintenance classes to be delivered in the future.
 
 We also offer maintenance classes for organisations. If you are interested [please get in touch](/#contact-us)! 
