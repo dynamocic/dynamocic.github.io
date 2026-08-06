@@ -25,16 +25,9 @@ We run a fully operational workshop space in Greater Govanhill at Unit 7, Hollyb
 
 You can book a repair or a service by emailing us at [hello@dynamocic.org](mailto:hello@dynamocic.org) or calling the workshop on [07707 962939](tel:+447707962939){:.phone}.
 
-## Bikepacking and Saddle Library 
+## Lending Library
 
-We run a bikepacking and camping equipment library which is open to memberships:
-- One-off: £5 - £10 for borrowing up to 5 items, for up to 10 days
-- Annual: £50 for for borrowing up to 5 items, for up to 10 days, throughout the year
-- Lifetime: £300 for all the perks of an annual membership while making a lasting contribution to support and grow our community
-
-We're developing our system to keep track of available items and manage borrowing, but feel free to drop us a message or come along to the workshop if you want to know what we have. There is a selection of tents, panniers, mats, sleeping bags, saddle bags and much more. We also have a selection of saddles to try if you're struggling with your current one!
-
-To sign up for library membership, please come during our usual workshop opening hours and bring some ID and proof of address with you.
+We run a lending library for bikepacking, saddles and camping equipment. Please see the [Lending Library](/lendinglibrary) page for details! 
 
 We have [a short survey](/survey) to help us find out what items you're interested to see in our equipment library. Please fill it in so we can expand our inventory with the most useful items!
 
