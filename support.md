@@ -27,9 +27,9 @@ We use GoCardless for monthly contributions. You can choose how much you would l
 
 - [Friends of Dynamo - £30](https://pay.gocardless.com/BRT01KZZRW7BNNX8GCBDW34MFCAJE)
 
-## One-off Donations
+## One-off Payments
 
-Because GoCardless charges us fees on each transaction, if you would like to support us through a one-off donation you can use our bank details below:
+Because GoCardless charges us fees on each transaction, if you would like to support us through a one-off payment you can use our bank details below:
 
 **Name**: Dynamo Glasgow CIC
 
