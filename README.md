@@ -8,7 +8,7 @@
 
 There are currently four main pages:
 - `events.md` for events
-- `survey.md` for the lending library survey
+- `support.md` for the Friends of Dynamo details
 - `nuts.md` for the nut allergy alert 
 - `lendinglibrary.md` for information about the lending library
 

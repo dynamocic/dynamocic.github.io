@@ -30,13 +30,15 @@ You can book a repair or a service by emailing us at [hello@dynamocic.org](mailt
 
 ## Lending Library
 
-We run a lending library for bikepacking, saddles and camping equipment. Please see the [Lending Library](/lendinglibrary) page for details! 
-
-We have [a short survey](/survey) to help us find out what items you're interested to see in our equipment library. Please fill it in so we can expand our inventory with the most useful items!
+We run a lending library for bikepacking, saddles and camping equipment. Please see [Lending Library](/lendinglibrary) for details.
 
 ## DIY Sessions
 
-We run DIY Bike Repair sessions on the 1st and 3rd Saturday of the month. Please see [Events](/events) for details!
+We run DIY Bike Repair sessions on the 1st and 3rd Saturday of the month. Please see [Events](/events) for details.
+
+## Support Us
+
+See [Support](/support) for details!
 
 ## Contact Us
 
