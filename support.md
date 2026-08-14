@@ -33,10 +33,10 @@ Because GoCardless charges us fees on each transaction, if you would like to sup
 
 **Name**: Dynamo Glasgow CIC
 
-- **Account number**: 6728 5790
+**Account number**: 6728 5790
 
-- **Sort code**: 08-92-99
+**Sort code**: 08-92-99
 
-- **Reference**: Friends of Dynamo
+**Reference**: Friends of Dynamo
 
 ## Thank you!
