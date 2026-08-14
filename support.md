@@ -31,8 +31,12 @@ We use GoCardless for monthly contributions. You can choose how much you would l
 
 Because GoCardless charges us fees on each transaction, if you would like to support us through a one-off donation you can use our bank details below:
 
-- **Account name**: Dynamo Glasgow CIC
+**Name**: Dynamo Glasgow CIC
 
 - **Account number**: 6728 5790
 
 - **Sort code**: 08-92-99
+
+- **Reference**: Friends of Dynamo
+
+## Thank you!
